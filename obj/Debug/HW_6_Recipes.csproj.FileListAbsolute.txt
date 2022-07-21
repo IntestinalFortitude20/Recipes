@@ -1,0 +1,11 @@
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\bin\Debug\RecipesDB.accdb
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\bin\Debug\HW_6_Recipes.exe.config
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\bin\Debug\HW_6_Recipes.exe
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\bin\Debug\HW_6_Recipes.pdb
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.csproj.AssemblyReference.cache
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.Form1.resources
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.Properties.Resources.resources
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.csproj.GenerateResource.cache
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.csproj.CoreCompileInputs.cache
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.exe
+C:\Users\pruck\OneDrive\Documents\MVCC\C# 2 - 254 - 300\HW 6\HW_6_Recipes\obj\Debug\HW_6_Recipes.pdb
